@@ -2,6 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-ouvic&layout=compact&theme=radical)
 
+
 🚀 **Aspiring Expert in Quantum Computing and Machine Learning**
 
 🎓 Currently pursuing a Master's degree in **Electrical Engineering** at **National Cheng Kung University (NCKU)**, specializing in **Computer Vision** and **Machine Learning** for medical imaging.
@@ -70,9 +71,6 @@ Built a DenseNet-based model for **Chest X-ray Image Classification**, focusing 
 
 ---
 
-### 🏆 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kanesadoa?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
 ## 📫 Get in Touch
 
