@@ -65,24 +65,7 @@ Built a DenseNet-based model for **Chest X-ray Image Classification**, focusing 
 
 ## 📫 Get in Touch
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kane-ouvic/)
-- 📧 [Email](mailto:your_email@example.com)
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/kane-ouvic/](https://www.linkedin.com/in/%E9%95%B7%E8%AB%BA-%E6%AD%90-0618741b5/)https://www.linkedin.com/in/kane-ouvic/)
 - 🖥️ [GitHub](https://github.com/Kane-ouvic)
 
-Let's connect and collaborate on exciting projects! 🚀
-
-<!-- ### Hi there 👋 -->
-
-
-**Kane-ouvic/Kane-ouvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Let's connect and collaborate on exciting projects! 🚀<!-- ### Hi there 👋 -->
