@@ -6,13 +6,18 @@
 
 ## 🔬 About Me
 
-- 🏆 **Work & Research Experience**:
+- 📚 **Educational Background**:
+    - **Master's in Electrical Engineering** (2024.09\~Present) at NCKU
+    - **Bachelor's in Computer Science and Information Engineering** (2020.09\~2024.06) at NCKU
+    - Minor in **Physics**
 
+- 🏆 **Work & Research Experience**:
+  
   - Software Engineering Intern at **Advantech ICPC**: Contributed to **Fundamental Model implementation in InspectionAI**.
   - Research Intern at NCKU Computing Network Center: Developed a **Federated Learning Platform** for hospital networks.
   - Teaching Assistant for courses including **Windows Programming** and **Introduction to Computing**.
 - 💡 **Interests**:
-
+  
   - **Image Processing**
   - **Machine Learning**
   - **Quantum Computing**
@@ -58,14 +63,13 @@ Built a DenseNet-based model for **Chest X-ray Image Classification**, focusing 
 ## 📈 Current Focus
 
 - **Researching advanced models** for **medical imaging** in autonomous and healthcare domains.
-- **Exploring quantum algorithms** for machine learning and optimization problems.
-- Actively contributing to **open-source projects** in AI and quantum computing.
 
 ---
 
 ## 📫 Get in Touch
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/kane-ouvic/](https://www.linkedin.com/in/%E9%95%B7%E8%AB%BA-%E6%AD%90-0618741b5/)https://www.linkedin.com/in/kane-ouvic/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/%E9%95%B7%E8%AB%BA-%E6%AD%90-0618741b5/)
 - 🖥️ [GitHub](https://github.com/Kane-ouvic)
 
 Let's connect and collaborate on exciting projects! 🚀<!-- ### Hi there 👋 -->
+
