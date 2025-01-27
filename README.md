@@ -1,3 +1,7 @@
+### 📊 GitHub Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-ouvic&layout=compact&theme=radical)
+
 🚀 **Aspiring Expert in Quantum Computing and Machine Learning**
 
 🎓 Currently pursuing a Master's degree in **Electrical Engineering** at **National Cheng Kung University (NCKU)**, specializing in **Computer Vision** and **Machine Learning** for medical imaging.
@@ -44,7 +48,7 @@
 ### Mathematics & Physics
 
 - Advanced Mathematics: Linear Algebra, Calculus, Optimization, Fourier Analysis
-- Physics: Quantum Mechanics, Electromagnetism, Classica Dynamics.
+- Physics: Quantum Mechanics, Electromagnetism, Classical Dynamics.
 
 ---
 
@@ -66,10 +70,16 @@ Built a DenseNet-based model for **Chest X-ray Image Classification**, focusing 
 
 ---
 
+### 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kanesadoa?theme=dark&font=JetBrains%20Mono&ext=heatmap)
+
 ## 📫 Get in Touch
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/%E9%95%B7%E8%AB%BA-%E6%AD%90-0618741b5/)
 - 🖥️ [GitHub](https://github.com/Kane-ouvic)
+
+
 
 Let's connect and collaborate on exciting projects! 🚀<!-- ### Hi there 👋 -->
 
